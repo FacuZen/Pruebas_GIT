@@ -1,2 +1,6 @@
 h1 {font-family: Verdana, Geneva, Tahoma, sans-serifg;}
-nav {background-color: brown;}
+header {
+    background-color: brown;
+    height: 20vh;
+}
+body {background-color: cadetblue;}
